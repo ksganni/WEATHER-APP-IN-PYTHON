@@ -14,7 +14,13 @@ A beginner-friendly desktop GUI application built in Python using **tkinter** th
 
 ## 📷 Screenshots
 
+<img width="300" height="330" alt="Screenshot 2025-08-01 at 9 05 33 PM" src="https://github.com/user-attachments/assets/03c99108-fdfd-4ac2-a1d7-d9edbad205cb" />
+<img width="300" height="330" alt="Screenshot 2025-08-01 at 9 05 42 PM" src="https://github.com/user-attachments/assets/d95376e2-9cd1-4a86-a13a-a3b3bf135369" />
+<img width="564" height="330" alt="Screenshot 2025-08-01 at 9 06 22 PM" src="https://github.com/user-attachments/assets/c0f2fba3-e6e1-4883-98da-f66d944aab08" />
 
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/a9389d80-acb6-4eae-9af4-c83cf7e0bc2f
 
 ---
 
